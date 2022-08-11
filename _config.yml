@@ -56,8 +56,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : ""
-  avatar : ""
+  name   : "Space Time Narratives"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Understanding imprecise space and time in narratives through qualitative representations, reasoning, and visualisation."
   links:
     - label: "Website"

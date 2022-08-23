@@ -17,6 +17,8 @@ title: Space Time Narratives Project
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Understanding imprecise space and time in narratives
+url: https://spacetimenarratives.github.io
+baseurl: /
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default

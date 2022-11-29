@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Space Time Narratives"
-  avatar : "/assets/images/LULogo.webp"
+  avatar : "/assets/images/STNlogo.png"
   bio    : "Understanding imprecise space and time in narratives through qualitative representations, reasoning, and visualisation."
   links:
     - label: "Website"

@@ -16,4 +16,4 @@ of Holocaust survivor testimonies.
 Our prototype NLP pipeline was demonstrated at the workshop and is available open source as a series of
 [Python Notebooks on our project’s GitHub repository](https://github.com/SpaceTimeNarratives/demo).
 
-![Ignatius Ezeani presenting at Text2Story 2023](/assests/images/Text2Story2023.jpg)
+![Ignatius Ezeani presenting at Text2Story 2023](/assets/images/Text2Story2023.jpg)

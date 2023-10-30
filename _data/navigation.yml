@@ -5,6 +5,8 @@ main:
     url: /partners/
   - title: "News"
     url: /posts/
+  - title: "Publications"
+    url: /publications/
 #  - title: "Categories"
 #    url: /categories/
 #  - title: "Tags"

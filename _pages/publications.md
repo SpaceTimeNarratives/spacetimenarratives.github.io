@@ -4,6 +4,7 @@ title: "Publications"
 ---
 
 Papers and peer reviewed presentations:
+- van de Weghe, N., de Sloover, L., Cohn, A. G., Huang, H., Scheider, S., Sieber, R. E., Timpf, S., & Claramunt, C. (2025). Opportunities and Challenges of Integrating Geographic Information Science and Large Language Models. Journal of Spatial Information Science, Volume 30, 93-116.
 - Haris, E., Cohn, A. G., & Stell, J. G. (2024). Semantic Perspectives on the Lake District Writing: Spatial Ontology Modeling and Relation Extraction for Deeper Insights. 16th International Conference on Spatial Information Theory (COSIT 2024). Schloss Dagstuhl--Leibniz-Zentrum für Informatik.
 - Gregory I., Ezeani I., Frank Z., Haris E., Murrieta-Flores P. and Steiner E. (accepted Mar 2024) "Analysing Textual Geographies in the Spatial Humanities" in Corrigan J., Bodenhamer D. and Harris T.M. (eds.) The Oxford Handbook of Spatial Humanities Oxford University Press: Oxford
 - Gregory, I., Smail, R., Taylor, J., & Butler, J. (2024). Exploring Qualitative Geographies in Large Volumes of Digital Text: Placing Tourists, Travelers, and Inhabitants in the English Lake District. Annals of the American Association of Geographers, 114(9), 1985-2009. [https://doi.org/10.1080/24694452.2024.2369593](https://doi.org/10.1080/24694452.2024.2369593)

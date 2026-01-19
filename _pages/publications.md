@@ -4,6 +4,7 @@ title: "Publications"
 ---
 
 Papers and peer reviewed presentations:
+- Haris, E., Cohn, A. G., & Stell, J. G. (2025). A semantic and context-dependent approach to the interpretation of 'near' in historical English Lake District narratives. International Journal of Geographical Information Science, 1–32. [https://doi.org/10.1080/13658816.2025.2588359](https://doi.org/10.1080/13658816.2025.2588359)
 - van de Weghe, N., de Sloover, L., Cohn, A. G., Huang, H., Scheider, S., Sieber, R. E., Timpf, S., & Claramunt, C. (2025). Opportunities and Challenges of Integrating Geographic Information Science and Large Language Models. Journal of Spatial Information Science, Volume 30, 93-116.
 - Haris, E., Cohn, A. G., & Stell, J. G. (2024). Semantic Perspectives on the Lake District Writing: Spatial Ontology Modeling and Relation Extraction for Deeper Insights. 16th International Conference on Spatial Information Theory (COSIT 2024). Schloss Dagstuhl--Leibniz-Zentrum für Informatik.
 - Gregory I., Ezeani I., Frank Z., Haris E., Murrieta-Flores P. and Steiner E. (accepted Mar 2024) "Analysing Textual Geographies in the Spatial Humanities" in Corrigan J., Bodenhamer D. and Harris T.M. (eds.) The Oxford Handbook of Spatial Humanities Oxford University Press: Oxford
@@ -20,6 +21,7 @@ Papers and peer reviewed presentations:
 - Zephyr Frank and Steiner, Erik. “Emotional Geographies: Distant Reading Survivor Testimony beyond the Simple Word Search.” Lessons & Legacies XVII: Languages of the Holocaust, 2024.
 
 Other presentations:
+- Understanding Spatial Journeys: Hybrid Methods, Promising Results. Ian Gregory (Lancaster University), Erum Haris (University of Leeds), Zephyr Frank (Stanford University) and Erik Steiner (University of Oregon). Spatial History & Historical GIS Seminar Series, December 12, 2025.
 - Exploring Spatial Narratives Using Digital Approaches, Digital Humanities Seminar Series, School of English, University of Leeds, March 13th, 2024.
 - Ezeani, Ignatius Recent Developments in the Digital Humanities, Digital Humanities Conference, Universidad Autónoma Madrid, Spain, January 8 - 10, 2024
 - John Stell, Ignatius Ezeani and Erum Haris: Digital Horizons time/place mapping seminar on 13th March 2024.

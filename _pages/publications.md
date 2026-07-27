@@ -4,6 +4,8 @@ title: "Publications"
 ---
 
 Papers and peer reviewed presentations:
+- Ezeani, I. (2026) Mapping memories: tracing the journeys of Holocaust survivors through testimony. Presented at Beyond Camps
+and Forced Labour, Current International Research on Survivors of Nazi Persecution, Eighth International Multidisciplinary Conference. London, January 2026.
 - Haris, E., Cohn, A. G., & Stell, J. G. (2025). A semantic and context-dependent approach to the interpretation of 'near' in historical English Lake District narratives. International Journal of Geographical Information Science, 1–32. [https://doi.org/10.1080/13658816.2025.2588359](https://doi.org/10.1080/13658816.2025.2588359)
 - van de Weghe, N., de Sloover, L., Cohn, A. G., Huang, H., Scheider, S., Sieber, R. E., Timpf, S., & Claramunt, C. (2025). Opportunities and Challenges of Integrating Geographic Information Science and Large Language Models. Journal of Spatial Information Science, Volume 30, 93-116.
 - Haris, E., Cohn, A. G., & Stell, J. G. (2024). Semantic Perspectives on the Lake District Writing: Spatial Ontology Modeling and Relation Extraction for Deeper Insights. 16th International Conference on Spatial Information Theory (COSIT 2024). Schloss Dagstuhl--Leibniz-Zentrum für Informatik.

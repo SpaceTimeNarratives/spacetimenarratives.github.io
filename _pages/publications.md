@@ -4,6 +4,7 @@ title: "Publications"
 ---
 
 Papers and peer reviewed presentations:
+- Lachlan McPheat, Navdeep Kaur, Robert E. Blackwell, Alessandra Russo, Anthony G Cohn and Pranava Madhyastha (2026) DecompSR:A Dataset for Decomposed Analyses of Compositional Multihop Spatial Reasoning, Transactions on Machine Learning Research, [https://doi.org/10.48550/arXiv.2511.02627](https://doi.org/10.48550/arXiv.2511.02627)
 - Ezeani, I. (2026) Mapping memories: tracing the journeys of Holocaust survivors through testimony. Presented at Beyond Camps
 and Forced Labour, Current International Research on Survivors of Nazi Persecution, Eighth International Multidisciplinary Conference. London, January 2026.
 - Haris, E., Cohn, A. G., & Stell, J. G. (2025). A semantic and context-dependent approach to the interpretation of 'near' in historical English Lake District narratives. International Journal of Geographical Information Science, 1–32. [https://doi.org/10.1080/13658816.2025.2588359](https://doi.org/10.1080/13658816.2025.2588359)
